@@ -9,4 +9,6 @@ Download the SOIS dataset from [BaiDuNetdisk](https://pan.baidu.com/s/1SaOsQ61q
 ##### Requirements
 
 ##### Demo
-
+```
+python demo.py
+```
