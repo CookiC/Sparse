@@ -24,7 +24,7 @@ Download the SOIS dataset from [BaiDuNetdisk](https://pan.baidu.com/s/1SaOsQ61q
 
 ### Citation
 
-If you use this work in your research, please cite:
+If you find this work helpful for your research, we would be grateful if you could cite:
 
 ```bibtex
 @article{shen2025cognitive,
